@@ -10,13 +10,13 @@ This project focuses on analyzing job vacancy trends across Canada using large C
 - 🧰 **Tools Used**:
   - **Python**
   - **Pandas** – for data cleaning, wrangling, and processing large CSV files
-  - **Matplotlib & Seaborn** – for generating informative visualizations
+  - **Matplotlib & Seaborn** – for generating informative data visualizations
 
 ---
 
 ## 📈 Features & Analysis
 
-- ✅ Loaded and cleaned large government-supplied job vacancy datasets
+- ✅ Preprocessed and cleaned large government-supplied job vacancy datasets
 - ✅ Explored job vacancies by:
   - Province and territory
   - Industry (e.g., healthcare, construction, tech)
@@ -24,13 +24,12 @@ This project focuses on analyzing job vacancy trends across Canada using large C
 - ✅ Created visualizations such as:
   - Line charts for time-series trends
   - Bar charts for regional comparisons
-  - Heatmaps for vacancy distribution across sectors and locations
 
 ---
 
 ## 📦 Dataset
 
-- Source: Statistics Canada
+- Source: Statistics Canada and Government of Ontario
 - Format: CSV
 - Size: Large-scale (100k+ rows depending on the time period and filters)
 
@@ -53,3 +52,10 @@ This project focuses on analyzing job vacancy trends across Canada using large C
    ```bash
    python [name of script].py
    ```
+--- 
+
+## Authors
+Louis Nguyen  
+Ahmet Ozer  
+Arya Oberoi  
+Zain Murad
